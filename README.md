@@ -44,8 +44,8 @@ This project is a voice-controlled turtle graphics application using Python. It 
 2. Speak commands to control the turtle. Supported commands are:
    - `left` : Turn the turtle left by 90 degrees.
    - `right` : Turn the turtle right by 90 degrees.
-   - `up` : Move the turtle forward.
-   - `down` : Move the turtle backward.
+   - `forward` : Move the turtle forward.
+   - `back` : Move the turtle backward.
    - `done` : Exit the application.
 
 3. The Tkinter window will display the history of all recognized commands.
