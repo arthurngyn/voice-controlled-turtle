@@ -10,6 +10,21 @@ This project is a voice-controlled turtle graphics application using Python. It 
 - Turtle graphics controlled by voice commands.
 - Real-time display of command history in a Tkinter window.
 
+## Screenshots
+
+### Main Turtle Window
+
+![Main Turtle Window](bird_eye_turtle.png)
+
+### Command History Window
+
+![Command History Window](input_history.png)
+
+### Terminal Input History
+
+![Terminal Input History](print_history.png)
+
+
 ## Requirements
 
 - Python 3.x
@@ -164,19 +179,6 @@ This project is a voice-controlled turtle graphics application using Python. It 
        thread_processing.join()
    ```
 
-## Screenshots
-
-### Main Turtle Window
-
-![Main Turtle Window](bird_eye_turtle.png)
-
-### Command History Window
-
-![Command History Window](input_history.png)
-
-### Terminal Input History
-
-![Terminal Input History](print_history.png)
 
 ## License
 
