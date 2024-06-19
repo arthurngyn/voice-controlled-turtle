@@ -15,15 +15,15 @@ This project is a voice-controlled turtle graphics application using Python. It 
 
 ### Main Turtle Window
 
-![Main Turtle Window](bird_eye_turtle.png)
+![Main Turtle Window](images/bird_eye_turtle.png)
 
 ### Command History Window
 
-![Command History Window](input_history.png)
+![Command History Window](images/input_history.png)
 
 ### Terminal Input History
 
-![Terminal Input History](print_history.png)
+![Terminal Input History](images/print_history.png)
 
 
 ## Requirements
