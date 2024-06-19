@@ -9,7 +9,7 @@ This project is a voice-controlled turtle graphics application using Python. It 
 - Voice recognition using the Google Web Speech API.
 - Turtle graphics controlled by voice commands.
 - Real-time display of command history in a Tkinter window.
-- Realistic Physics with Velocity and Friction 
+- Implemented Velocity and Friction for more realistic (Still tweaking parameters)
 
 ## Screenshots
 
