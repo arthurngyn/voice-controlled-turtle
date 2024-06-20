@@ -181,10 +181,6 @@ This project is a voice-controlled turtle graphics application using Python. It 
    ```
 
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - [SpeechRecognition Library](https://pypi.org/project/SpeechRecognition/)
